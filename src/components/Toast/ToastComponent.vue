@@ -2,7 +2,7 @@
   <div :class="[isNew, 'rounded w-full h-auto flex items-center gap-4 p-4']">
     <picture>
       <img
-        :src="`../../src/assets/images/${toast.avatar}`"
+        :src="`/images/${toast.avatar}`"
         :alt="`Profile picture ${toast.user}`"
         class="w-12 min-w-12"
       />
@@ -27,7 +27,7 @@
     </section>
     <picture v-if="toast.type === 5">
       <img
-        :src="`../../src/assets/images/${toast.detail}`"
+        :src="`/images/${toast.detail}`"
         :alt="`comented picture ${toast.user}`"
         class="w-8 rounded-xl hover:cursor-pointer hover:opacity-70"
       />
