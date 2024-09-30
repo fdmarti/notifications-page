@@ -1,0 +1,61 @@
+{
+  "notificationsTotal": 3,
+  "notifications": [
+    {
+      "user": "Mark Webber",
+      "avatar": "avatar-mark-webber.webp",
+      "type": 1,
+      "isNew": true,
+      "detail": "My first tournament today!",
+      "time": "1m"
+    },
+    {
+      "user": "Angela Gray",
+      "avatar": "avatar-angela-gray.webp",
+      "type": 2,
+      "isNew": true,
+      "detail": "",
+      "time": "5m"
+    },
+    {
+      "user": "Jacob Thompson",
+      "avatar": "avatar-jacob-thompson.webp",
+      "type": 3,
+      "isNew": true,
+      "detail": "Chess Club",
+      "time": "1 day"
+    },
+    {
+      "user": "Rizky Hassanuddin",
+      "avatar": "avatar-rizky-hasanuddin.webp",
+      "type": 4,
+      "isNew": false,
+      "detail": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+      "time": "5 days"
+    },
+    {
+      "user": "Kimberly Smith",
+      "avatar": "avatar-kimberly-smith.webp",
+      "type": 5,
+      "isNew": false,
+      "detail": "image-chess.webp",
+      "time": "1 week"
+    },
+    {
+      "user": "Nathan Peterson",
+      "avatar": "avatar-nathan-peterson.webp",
+      "type": 1,
+      "isNew": false,
+      "detail": "5 end-game strategies to increase your win rate",
+      "time": "2 weeks"
+    },
+    {
+      "user": "Anna Kim",
+      "avatar": "avatar-anna-kim.webp",
+      "type": 6,
+      "isNew": false,
+      "detail": "Chess Club",
+      "time": "2 weeks"
+    }
+  ]
+}
